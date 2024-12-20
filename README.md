@@ -1,4 +1,4 @@
-# Valentino Artisan Coffee House API Testing Project
+# API Testing Project (Valentino Artisan Coffee House)
 
 This repository contains a Postman collection for testing the API of Valentino's Artisan Coffee House. The API handles operations like managing products, orders, and clients for the coffee house.
 
